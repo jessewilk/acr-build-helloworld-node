@@ -1,5 +1,5 @@
 ---
-page_type: sample
+page_type: sample in jwilk repo
 languages:
 - javascript
 products:
